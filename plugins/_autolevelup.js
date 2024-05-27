@@ -25,7 +25,7 @@ while (canLevelUp(user.level, user.exp, global.multiplier)) user.level++
 *┃ ${lenguajeGB.smsAutoLv5()} ${new Date().toLocaleString('id-ID')}*
 *╰━⊰ ${lenguajeGB.smsAutoLv1()} ⊱━━დ*
 
-*_${lenguajeGB.smsAutoLv6()}_*`, fkontak, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}}) */
+*_${lenguajeGB.smsAutoLv6()}_*`, fkontak, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝑺𝑼𝑷𝑬𝑹 𝑴𝑶𝑵𝑲𝑬𝒀 𝑩𝑶𝑻 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}}) */
 conn.sendButton(m.chat, '🐈 ' + wm, `*╭━⊰ ${username} ⊱━დ*
 *┃ ${lenguajeGB.smsAutoLv2()} ${before}*
 *┃ ${lenguajeGB.smsAutoLv3()} ${user.level}*
@@ -59,7 +59,7 @@ conn.reply(m.chat, `*${lenguajeGB.smsAutoLv7()} 5!!* 🏆
 𓃠 *${especialCant * 1} ${global.rpgshop.emoticon(especial)}*
 𓃠 *${especialCant2 * 1} ${global.rpgshop.emoticon(especial2)}*
 𓃠 *${especialCant3 * 1} ${global.rpgshop.emoticon(especial3)}*
-𓃠 *${especialCant4 * 1} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}}) 
+𓃠 *${especialCant4 * 1} ${global.rpgshop.emoticon(especial4)}*`, m, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝑺𝑼𝑷𝑬𝑹 𝑴𝑶𝑵𝑲𝑬𝒀 𝑩𝑶𝑻 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}}) 
 user[especial] += especialCant * 1
 user[especial2] += especialCant2 * 1
 user[especial3] += especialCant3 * 1
