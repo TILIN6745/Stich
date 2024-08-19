@@ -1,7 +1,7 @@
 {
-"name": "Monkey-Bot",
-"version": "1.7.0", 
-"description": "Super Bot WhatsApp",
+"name": "MonkeyBot",
+"version": "1.0.0", 
+"description": "BY MONOVAN SHOP",
 "main": "index.js",
 "type": "module",
     
@@ -17,19 +17,19 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/MonovanShop/MonkeyBotPro.git",
+"homepage": "https://github.com/GataNina-Li/GataBot-MD",
 "author": {
-"name": "Monkey-Bot" },
+"name": "MONOVAN SHOP" },
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/MonovanShop/MonkeyBotPro.git" },
+"url": "git+https://github.com/GataNina-Li/GataBot-MD.git" },
 
 "bugs": {
-"url": "https://github.com/MonovanShop/MonkeyBotPro/issues" },
+"url": "https://github.com/GataNina-Li/GataBot-MD/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
-"@whiskeysockets/baileys": "^6.7.2",
+"@whiskeysockets/baileys": "^6.6.0",
 "@adiwajshing/keyed-db": "^0.2.4",
 "@bochilteam/scraper": "^4.2.4",
 "@brandond/findthelyrics": "^2.0.5",
@@ -47,12 +47,10 @@
 "body-parser": "^1.20.2",
 "cfonts": "^3.2.0",
 "chalk": "^5.0.0",
-"cheerio": "^1.0.0-rc.10",
+"cheerio": "github:AikerDev/cheeiro",
 "colors": "^1.4.0",
 "countries-and-timezones": "^3.6.0",
-"country-phone-prefix": "^1.0.1",
 "express": "^4.17.3",
-"emoji-country-flags": "^1.0.3",
 "fb-downloader-scrapper": "^1.0.1",
 "file-type": "^17.1.1",
 "fluent-ffmpeg": "^2.1.2",
