@@ -13,9 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["5215625775955"", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝑴𝑶𝑵𝑬𝑲𝒀 💖🐈
-["5217298724948"], 
-["5215625768269"]]
+["5214794070450"", '𝗦𝘁𝗶𝗰𝗵 𝗕𝗼𝘁', true], //𝗦𝘁𝗶𝗰𝗵 💖
+["5218336105471"], 
+["5214794070450"]]
 
 global.mods = []
 global.prems = []
@@ -55,7 +55,7 @@ global.version_language = '1.0 (MID-GB)'
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // ❰❰ API KEYS ❱❱
-global.Key360 = ["𝑴𝑶𝑵𝑬𝑲𝒀"] // key Ephoto360
+global.Key360 = ["𝗦𝘁𝗶𝗰𝗵 𝗕𝗼𝘁"] // key Ephoto360
 global.openai_key = 'sk-0' // Api New: https://platform.openai.com/account/api-keys 
 global.openai_org_id = 'org-3' // Api New: https://platform.openai.com/account/org-settings */
 global.keysZens = ["LuOlangNgentot", "c2459db922", "37CC845916", "6fb0eff124", "hdiiofficial", "fiktod", "BF39D349845E", "675e34de8a", "0b917b905e6f"]
@@ -113,9 +113,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5215625775955", 'Monovan 💻', 1], 
-["5217298724948", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["5215625768269", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]]
+["5214794070450", '𝗦𝘁𝗶𝗰𝗵 𝗕𝗼𝘁', 1], 
+["5214794070450", '𝗦𝘁𝗶𝗰𝗵 𝗕𝗼𝘁', 1],  
+["5214794070450", '𝗦𝘁𝗶𝗰𝗵 𝗕𝗼𝘁', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -123,8 +123,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `╭ 𝑴𝑶𝑵𝑬𝑲𝒀 🐈\n┃\n┃ » 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖:\n┃ @globalgb\n┃\n┃ » 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n┃ @gatadios\n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @gata_dios\n╰━━━━━━━━•` //"𝑴𝑶𝑵𝑬𝑲𝒀 🐈"
-global.author = ` ╭ 𝑴𝑶𝑵𝑬𝑲𝒀✓\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ GataNina-Li\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » 𝙿𝚊𝚢𝙿𝚊𝚕:\n ┃ @OficialGD\n ╰━━━━━━━━•` //"𝑴𝑶𝑵𝑬𝑲𝒀"
+global.packname = `╭ 𝗦𝘁𝗶𝗰𝗵 𝗕𝗼𝘁\n┃\n┃ » 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖:\n┃ @globalgb\n┃\n┃ » 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n┃ @gatadios\n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @gata_dios\n╰━━━━━━━━•` //"𝗦𝘁𝗶𝗰𝗵 𝗕𝗼𝘁"
+global.author = ` 𝗧𝗜𝗟𝗜𝗡\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ GataNina-Li\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » 𝙿𝚊𝚢𝙿𝚊𝚕:\n ┃ @OficialGD\n ╰━━━━━━━━•` //"𝗦𝘁𝗶𝗰𝗵 𝗕𝗼𝘁"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -132,7 +132,7 @@ global.author = ` ╭ 𝑴𝑶𝑵𝑬𝑲𝒀✓\n ┃\n ┃ » 𝙶𝚒𝚝�
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝑴𝑶𝑵𝑬𝑲𝒀"
+global.gt = "TILIN"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -158,9 +158,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝑴𝑶𝑵𝑬𝑲𝒀 : 𝑴𝑶𝑵𝑬𝑲𝒀"
-global.igfg = "𝑴𝑶𝑵𝑬𝑲𝒀"
-global.nomorown = "5215625775955"
+global.wm = "𝗦𝘁𝗶𝗰𝗵 𝗕𝗼𝘁 : 𝗦𝘁𝗶𝗰𝗵 𝗕𝗼𝘁"
+global.igfg = "𝗦𝘁𝗶𝗰𝗵 𝗕𝗼𝘁"
+global.nomorown = "5214794070450"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
